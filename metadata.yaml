@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '43469'
     url: http://www.gutenberg.org/2009/agents/43469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45809#A-Glossary-of-Words-used-in-the-Country-of-Wiltshire
 gutenberg_issued: '2014-05-29'
 gutenberg_type: Text
 identifiers:
