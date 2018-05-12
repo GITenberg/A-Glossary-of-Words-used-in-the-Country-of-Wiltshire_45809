@@ -1,0 +1,33 @@
+_repo: A-Glossary-of-Words-used-in-the-Country-of-Wiltshire_45809
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45809-h/images/cover-page.jpg
+creator:
+  authors:
+  - agent_name: Dartnell, George Edward
+    birthdate: 1852
+    deathdate: 1908
+    gutenberg_agent_id: '43468'
+    url: http://www.gutenberg.org/2009/agents/43468
+  - agent_name: Goddard, E. H. (Edward Hungerford)
+    alias: Goddard, Edward Hungerford
+    birthdate: 1854
+    deathdate: 1947
+    gutenberg_agent_id: '43469'
+    url: http://www.gutenberg.org/2009/agents/43469
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dialects -- England -- Wiltshire'
+- !lcsh 'English language -- Glossaries, vocabularies, etc.'
+- !lcc 'PE'
+title: A Glossary of Words used in the Country of Wiltshire
+url: http://www.gutenberg.org/ebooks/45809
